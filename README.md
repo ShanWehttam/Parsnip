@@ -1,4 +1,4 @@
 # Parsnip
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Parsnip Logo](/Parsnip.jpg)
+
