@@ -1,3 +1,3 @@
 ![Parsnip Logo](/Parsnip.jpg)
 
-# Parsnip 
+<h1 align="center">Parsnip<\h1> 
